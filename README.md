@@ -15,7 +15,7 @@
 
 😎 Fun fact about me: I can speak 5 languages, I have read 100+ books and I am good at sketching ;)
 
-💬 Ask me about, you can write me @ here: anshulyadav876@gmail.com
+💬 You can connect with me here: anshulyadav876@gmail.com
 
 ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
 
