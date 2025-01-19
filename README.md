@@ -36,9 +36,6 @@
             <a href="mailto:anshulyadav876@gmail.com" class="btn">Email Me</a>
         </section>
     </main>
-    <footer>
-        <p>&copy; Anshul Yadav. All rights reserved.</p>
-    </footer>
 </body>
 </html>
 
