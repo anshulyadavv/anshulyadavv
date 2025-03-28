@@ -1,4 +1,4 @@
-name: update snake
+name: Generate Snake Animation
 
 on:
   schedule:
@@ -9,15 +9,24 @@ on:
       - main
 
 jobs:
-  generate-snake:
+  generate:
     runs-on: ubuntu-latest
+    timeout-minutes: 10
+
     steps:
       - uses: actions/checkout@v3
-      - uses: Platane/snk@master
+
+      - name: Generate Snake
+        uses: Platane/snk@master
         with:
           github_user_name: anshulyadavv
-          svg_out_path: dist/github-contribution-grid-snake.svg
-      - uses: EndBug/add-and-commit@v9
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg
+            dist/github-contribution-grid-snake.gif
+
+      - name: Push to GitHub
+        uses: EndBug/add-and-commit@v9
         with:
           branch: main
-          message: 'Update snake'
+          message: 'Generate Snake'
