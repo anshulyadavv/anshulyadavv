@@ -105,7 +105,7 @@ Hi, I'm an Electrical engineer passionate about solving problems and building im
 </p>
 
 <p align="center">
-  <img src="https://github.com/anshulyadavv/anshulyadavv/raw/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
+  <img src="https://raw.githubusercontent.com/anshulyadavv/anshulyadavv/output/snake.svg" alt="Snake animation"/>
 </p>
 
 <p align="center"> 
