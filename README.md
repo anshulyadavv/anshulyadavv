@@ -1,6 +1,6 @@
 # Hi there, I'm Anshul! 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7FF&width=435&lines=Full+Stack+Developer;Open+Source+Contributor;Tech+Enthusiast;Problem+Solver)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7FF&width=435&lines=Full+Stack+Developer;Open+Source+Contributor;Tech+Enthusiast+Maybe?;Problem+Solver;Artist;Chess+Freak;)](https://git.io/typing-svg)
 
 <p align="center">
   <a href="https://github.com/anshulyadavv">
@@ -16,7 +16,7 @@
 Hi, I'm an Electrical engineer passionate about solving problems and building impactful solutions. This page is dedicated to my projects, skills, and contributions.
 
 
-- 🔭 I'm currently working on **something cool**
+- 🔭 I'm **Open to work**
 - 🌱 I'm currently learning **React**
 - 👯 I'm looking to collaborate on **open source projects**
 - 💬 Ask me about **C++, Python, js, or anything web-related**
@@ -104,9 +104,9 @@ Hi, I'm an Electrical engineer passionate about solving problems and building im
   </a>
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/anshulyadavv/anshulyadavv/output/snake.svg" alt="Snake animation"/>
-</p>
+### 🐍 Contribution Snake
+
+![Snake animation](https://raw.githubusercontent.com/anshulyadavv/anshulyadavv/dist/github-contribution-grid-snake.svg)
 
 <p align="center"> 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
