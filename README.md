@@ -67,6 +67,7 @@ Hi, I'm an Electrical engineer passionate about solving problems and building im
 -->
 <!--
 ## 📌 Pinned Repositories
+-->
 <!--
 <p align="center">
   <a href="https://github.com/anshulyadavv/project1">
@@ -76,9 +77,8 @@ Hi, I'm an Electrical engineer passionate about solving problems and building im
     <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=anshulyadavv&repo=project2&theme=dracula" />
   </a>
 </p>
-
+-->
 ## 📫 Let's Connect
-
 
 <p align="center">
   <a href="mailto:anshulyadav876@gmail.com">
