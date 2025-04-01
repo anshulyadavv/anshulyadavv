@@ -66,9 +66,9 @@ Hi, I'm an Electrical engineer passionate about solving problems and building im
   <img src="https://github-profile-trophy.vercel.app/?username=anshulyadavv&theme=dracula&no-frame=true&no-bg=true&margin-w=4" alt="anshulyadavv" />
 </p>
 -->
-
+<!--
 ## 📌 Pinned Repositories
-
+<!--
 <p align="center">
   <a href="https://github.com/anshulyadavv/project1">
     <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=anshulyadavv&repo=project1&theme=dracula" />
@@ -79,7 +79,7 @@ Hi, I'm an Electrical engineer passionate about solving problems and building im
 </p>
 
 ## 📫 Let's Connect
-
+<!--
 <p align="center">
  <!-- <a href="https://dev.to/anshulyadavv">
     <img src="https://img.shields.io/badge/-DEV.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"/>
