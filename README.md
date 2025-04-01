@@ -78,11 +78,9 @@ Hi, I'm an Electrical engineer passionate about solving problems and building im
 </p>
 
 ## 📫 Let's Connect
-<!--
+
+
 <p align="center">
- <!-- <a href="https://dev.to/anshulyadavv">
-    <img src="https://img.shields.io/badge/-DEV.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"/>
-  </a> -->
   <a href="mailto:anshulyadav876@gmail.com">
     <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
