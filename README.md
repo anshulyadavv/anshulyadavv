@@ -11,7 +11,7 @@
   </a>
 </p>
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
 Hi, I'm an Electrical engineer passionate about solving problems and building impactful solutions. This page is dedicated to my projects, skills, and contributions.
 
@@ -27,7 +27,7 @@ Hi, I'm an Electrical engineer passionate about solving problems and building im
 ## 🛠 Tech Stack
 
 ### Languages
-![C++](https://img.shields.io/badge/-C++-1572B6?style=flat-square&logo=c++&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-2300599C?style=flat-square&logo=c++&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -52,14 +52,14 @@ Hi, I'm an Electrical engineer passionate about solving problems and building im
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anshulyadavv&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshulyadavv&layout=compact&langs_count=8&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anshulyadavv&theme=graywhite&hide_border=false&include_all_commits=false&count_private=true"/>
+  <img height="180em" src="https://nirzak-streak-stats.vercel.app/?user=anshulyadavv&theme=graywhite&hide_border=false"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anshulyadavv&theme=dracula" alt="anshulyadavv" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshulyadavv&theme=graywhite&hide_border=false&include_all_commits=false&count_private=true&layout=compact" />
 </p>
-
+<!--
 ## 🏆 GitHub Trophies
 <!--
 <p align="center">
@@ -81,17 +81,20 @@ Hi, I'm an Electrical engineer passionate about solving problems and building im
 ## 📫 Let's Connect
 
 <p align="center">
-  <a href="https://linkedin.com/in/anshulyadavv">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
  <!-- <a href="https://dev.to/anshulyadavv">
     <img src="https://img.shields.io/badge/-DEV.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"/>
   </a> -->
-  <a href="https://medium.com/@anshulyadavv">
-    <img src="https://img.shields.io/badge/-Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
-  </a>
   <a href="mailto:anshulyadav876@gmail.com">
     <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+    <a href="https://www.linkedin.com/in/anshulyadavv/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.youtube.com/@anshulyadavv" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
+  </a>
+  <a href="https://t.me/anshul_yadav" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
   </a>
 </p>
 
