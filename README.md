@@ -14,13 +14,15 @@
 </p>
 </h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7FF&width=435&lines=Full+Stack+Developer;Open+Source+Contributor;Tech+Enthusiast+Maybe?;Problem+Solver;Artist;Chess+Freak;)](https://git.io/typing-svg)
-
-<p align="center">
+<p align="right">
   <a href="https://github.com/anshulyadavv">
     <img src="https://komarev.com/ghpvc/?username=anshulyadavv&label=Profile%20views&color=0e75b6&style=flat" alt="anshulyadavv" />
   </a>
 </p>
+
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7FF&width=435&lines=Full+Stack+Developer;Open+Source+Contributor;Tech+Enthusiast+Maybe?;Problem+Solver;Artist;Chess+Freak;)](https://git.io/typing-svg)
+
 
 
 ## 👨‍💻 About Me
