@@ -1,13 +1,13 @@
-# Hi there, I'm Anshul! 👋
+![Banner](https://res.cloudinary.com/superfolio/image/upload/v1620689979/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f63362f33332f63322f63363333633230656465383266306530636564376435373064626533613166332e676966_yjuh2s.gif)
+
+
+# Hi there, I'm Anshul! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7FF&width=435&lines=Full+Stack+Developer;Open+Source+Contributor;Tech+Enthusiast+Maybe?;Problem+Solver;Artist;Chess+Freak;)](https://git.io/typing-svg)
 
 <p align="center">
   <a href="https://github.com/anshulyadavv">
     <img src="https://komarev.com/ghpvc/?username=anshulyadavv&label=Profile%20views&color=0e75b6&style=flat" alt="anshulyadavv" />
-  </a>
-  <a href="https://github.com/anshulyadavv?tab=followers">
-    <img src="https://img.shields.io/github/followers/anshulyadavv?label=Followers&style=social" alt="followers">
   </a>
 </p>
 
@@ -17,26 +17,26 @@ Hi, I'm an Electrical engineer passionate about solving problems and building im
 
 
 - 🔭 I'm **Open to work**
-- 🌱 I'm currently learning **React**
+- 🌱 I'm currently learning **Data Structures & Algorithms**
 - 👯 I'm looking to collaborate on **open source projects**
-- 💬 Ask me about **C++, Python, js, or anything web-related**
-- 📫 How to reach me: **anshulyadav876@gmail.com**
-- 😄 Pronouns: **He/Him**
-- ⚡ Fun fact: **I can speak 4 languages** **PS - currently learning Arabic**
+- 💬 Ask me about **C++, python, Formula 1, chess, plants or anything web-related**
+- 📫 You can mail me @: **anshulyadav876@gmail.com**
+- ⚡ Fun fact: **I can speak 4 languages;**
+               **PS - currently learning Arabic**
 
 ## 🛠 Tech Stack
 
 ### Languages
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/-C++-1572B6?style=flat-square&logo=c++&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
 ### Frameworks & Libraries
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
 ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
 
 ### Databases
@@ -61,20 +61,11 @@ Hi, I'm an Electrical engineer passionate about solving problems and building im
 </p>
 
 ## 🏆 GitHub Trophies
-
+<!--
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=anshulyadavv&theme=dracula&no-frame=true&no-bg=true&margin-w=4" alt="anshulyadavv" />
 </p>
-
-## 🔥 Recent Activity
-
-<!--START_SECTION:activity--
-1. 🎉 Merged PR [#123] in [organization/repo]
-2. 🚀 Published release [v1.2.3] in [anshulyadavv/project]
-3. 💪 Opened PR [#456] in [organization/repo]
-4. 🎨 Improved UI in [anshulyadavv/webapp]
-5. 🐛 Fixed bug in [anshulyadavv/api-service]
-<!--END_SECTION:activity-->
+-->
 
 ## 📌 Pinned Repositories
 
