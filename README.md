@@ -68,7 +68,6 @@ Hi, I'm an Electrical engineer passionate about solving problems and building im
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anshulyadavv&theme=graywhite&hide_border=false&include_all_commits=false&count_private=true"/>
   <img height="180em" src="https://nirzak-streak-stats.vercel.app/?user=anshulyadavv&theme=graywhite&hide_border=false"/>
 </p>
 
