@@ -22,11 +22,14 @@
     style="vertical-align: middle; margin-left: 8px;"
   />
 -->
+
+<!--
 </p>
 
 <br>
 
 <!-- Social Badges -->
+<!--
 <p align="center">
   <a href="https://www.linkedin.com/in/anshulyadavv/" target="_blank">
     <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/linkedin.svg" height="25" />
@@ -38,7 +41,7 @@
     <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/telegram.svg" height="25" />
   </a>
 </p>
-
+-->
 <!-- Profile Views -->
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=anshulyadavv&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
@@ -54,26 +57,20 @@
 </p>
 -->
 
----
+## About Me
 
-## 👨‍💻 About Me
+Electrical & Electronics Engineer with a focus on full-stack development and systems thinking.
+I build products at the intersection of hardware intuition and software craft — from web applications
+to algorithmic problem-solving.
 
-Hey there! I'm an **Electrical Engineer** who fell in love with code, creativity, and problem-solving.
-I enjoy turning ideas into scalable products, automating boring stuff, and sometimes, just making things look a little too pretty.
+Currently deepening expertise in **Data Structures & Algorithms** and exploring systems-level
+optimization. I'm drawn to problems with real constraints — performance, scale, or elegance.
 
-- 🔭 **Open to work** on impactful tech projects
+**Interests:** C++, distributed systems, AI/ML infrastructure, Formula 1 engineering, chess
 
-- 🌱 Currently mastering **Data Structures & Algorithms**
+Open to engineering roles where I can contribute at the systems or product layer.
+📫 anshulyadav876@gmail.com
 
-- 👯 Love collaborating on **open source & web dev**
-
-- 💬 Let’s talk *C++, AI, Formula 1, Chess, or Plants*
-
-- 📫 Reach me at **anshulyadav876@gmail.com**
-
-- ⚡ Fun fact: I speak 4 languages — and I’m now adding español to the list
-
----
 
 ## 💻 Tech Stack
 
@@ -81,7 +78,6 @@ I enjoy turning ideas into scalable products, automating boring stuff, and somet
   <img src="https://skillicons.dev/icons?i=cpp,python,js,react,nodejs,express,mongodb,mysql,git,docker,aws" />
 </p>
 
----
 
 ## 📊 GitHub Stats
 
@@ -90,8 +86,7 @@ I enjoy turning ideas into scalable products, automating boring stuff, and somet
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshulyadavv&theme=graywhite&hide_border=true&layout=compact" />
 </p>
 
----
-
+<!--
 ## 🔥 *LeetCode* Stats
 
 <p align="center">
