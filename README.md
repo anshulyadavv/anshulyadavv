@@ -60,11 +60,11 @@
 ## About Me
 
 Electrical & Electronics Engineer with a focus on full-stack development and systems thinking.
-I build products at the intersection of hardware intuition and software craft — from web applications
+I build products at the intersection of hardware intuition and software craft - from web applications
 to algorithmic problem-solving.
 
 Currently deepening expertise in **Data Structures & Algorithms** and exploring systems-level
-optimization. I'm drawn to problems with real constraints — performance, scale, or elegance.
+optimization. I'm drawn to problems with real constraints - performance, scale, or elegance.
 
 **Interests:** C++, distributed systems, AI/ML infrastructure, Formula 1 engineering, chess
 
