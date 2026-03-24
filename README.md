@@ -69,7 +69,7 @@ optimization. I'm drawn to problems with real constraints - performance, scale, 
 **Interests:** C++, distributed systems, AI/ML infrastructure, Formula 1 engineering, chess
 
 Open to engineering roles where I can contribute at the systems or product layer.
-📫 anshulyadav876@gmail.com
+📫 anshulyadav245@gmail.com
 
 
 ## 💻 Tech Stack
