@@ -82,8 +82,9 @@ Open to engineering roles where I can contribute at the systems or product layer
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="160em" src="https://nirzak-streak-stats.vercel.app/?user=anshulyadavv&theme=graywhite&hide_border=true" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshulyadavv&theme=graywhite&hide_border=true&layout=compact" />
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=anshulyadavv&theme=meta-light" alt="GitHub Streak" /></a>
+<!--  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshulyadavv&theme=graywhite&hide_border=true&layout=compact" /> 
+   <img height="160em" src="https://nirzak-streak-stats.vercel.app/?user=anshulyadavv&theme=graywhite" />-->
 </p>
 
 <!--
