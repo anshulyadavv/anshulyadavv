@@ -22,6 +22,8 @@
     style="vertical-align: middle; margin-left: 8px;"
   />
 -->
+
+<!--
 </p>
 
 <br>
@@ -40,13 +42,12 @@
   </a>
 </p>
 -->
-
 <!-- Profile Views -->
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=anshulyadavv&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
-<!-- Roles Typing SVG -->
+<!-- Typing Section 2 -->
 <!--
 <p align="center">
   <img 
@@ -71,40 +72,38 @@ Open to engineering roles where I can contribute at the systems or product layer
 📫 anshulyadavv@hotmail.com
 
 
-## Tech Stack
+## 💻 Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cpp,python,js,react,nodejs,express,mongodb,mysql,git,docker,aws" />
 </p>
 
-## Featured Projects
 
-- [**CacheStack**](https://github.com/anshulyadavv/cachestack) - A high-performance caching layer and storage utility.
-- [**Finsight**](https://github.com/anshulyadavv/finsight) - Financial insights and data visualization application.
-- [**Linguist**](https://github.com/anshulyadavv/linguist) - A language learning flashcard engine and quiz application.
-- [**Beacon**](https://github.com/anshulyadavv/beacon) - Lightweight monitoring and tracking service.
-- [**URL Shortener**](https://github.com/anshulyadavv/url_shortner) - Custom URL shortening and redirection service.
-- [**Micro-Projects**](https://github.com/anshulyadavv/micro-projects) - A collection of various small-scale utilities and mini-apps.
-
-
-## GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=anshulyadavv&theme=meta-light" alt="GitHub Streak" /></a>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshulyadavv&theme=graywhite&hide_border=true&layout=compact" /> 
+<!--  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshulyadavv&theme=graywhite&hide_border=true&layout=compact" /> 
+   <img height="160em" src="https://nirzak-streak-stats.vercel.app/?user=anshulyadavv&theme=graywhite" />-->
 </p>
 
+<!--
+## 🔥 *LeetCode* Stats
 
-
+<p align="center">
+  <a href="https://leetcode.com/u/anshul_yadav/">
+    <img src="https://leetcard.jacoblin.cool/anshul_yadav?ext=heatmap&theme=light&border=3&radius=12" alt="LeetCode Stats" />
+  </a>
+</p>
 
 ---
 
 <!-- GitHub Contribution Snake -->
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anshulyadavv/anshulyadavv/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anshulyadavv/anshulyadavv/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/anshulyadavv/anshulyadavv/output/github-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
   </picture>
 </p>
 
